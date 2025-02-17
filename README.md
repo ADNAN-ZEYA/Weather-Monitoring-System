@@ -42,3 +42,15 @@ This project is a **Weather Monitoring System** that uses an **ESP8266 NodeMCU**
 - **Step 4:** Flash the code to ESP8266 NodeMCU.
 - **Step 5:** Open ThingSpeak and view the live data.
 
+## Dependencies
+1. ESP8266WiFi.h
+2. DHT.h
+3. Adafruit BMP085.h
+4. ThingSpeak.h
+
+## Future Enhancements
+1. Add MQ135 sensor for air quality monitoring.
+2. mplement mobile notifications for extreme weather alerts.
+3. Deploy a web interface for real-time monitoring.
+
+
